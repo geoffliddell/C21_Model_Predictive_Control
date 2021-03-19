@@ -1,6 +1,6 @@
 ## MPC Lecture Notes
 
-# unconstrained prediction
+### unconstrained prediction
 
 We want to find an appropriate sequence of control inputs to make a system <img src="https://render.githubusercontent.com/render/math?math=x_{k%2B1}=Ax_k%2BBu_k"> 
 stable. So that by adding a feedback law e.g. <img src="https://render.githubusercontent.com/render/math?math=u_{k}=Kx_k"> we place the closed loop 
